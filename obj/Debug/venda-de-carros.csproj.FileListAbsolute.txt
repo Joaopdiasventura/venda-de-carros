@@ -1,0 +1,10 @@
+C:\Users\Alunos\source\repos\venda-de-carros\bin\Debug\venda-de-carros.exe.config
+C:\Users\Alunos\source\repos\venda-de-carros\bin\Debug\venda-de-carros.exe
+C:\Users\Alunos\source\repos\venda-de-carros\bin\Debug\venda-de-carros.pdb
+C:\Users\Alunos\source\repos\venda-de-carros\obj\Debug\venda-de-carros.csproj.AssemblyReference.cache
+C:\Users\Alunos\source\repos\venda-de-carros\obj\Debug\venda_de_carros.Form1.resources
+C:\Users\Alunos\source\repos\venda-de-carros\obj\Debug\venda_de_carros.Properties.Resources.resources
+C:\Users\Alunos\source\repos\venda-de-carros\obj\Debug\venda-de-carros.csproj.GenerateResource.cache
+C:\Users\Alunos\source\repos\venda-de-carros\obj\Debug\venda-de-carros.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\source\repos\venda-de-carros\obj\Debug\venda-de-carros.exe
+C:\Users\Alunos\source\repos\venda-de-carros\obj\Debug\venda-de-carros.pdb
