@@ -158,6 +158,11 @@ namespace venda_de_carros
             Recipe.attributes.Clear();
 
         }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DETALHES.Items.Clear();
+            Recipe.attributes.Clear();
+        }
     }
 }
 
